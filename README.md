@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET developer student 🌱‎
 -------------------------
 
-Currently embarking on my .NET system development journey at Campus Nyköping. My programming path started with C++, HTML, CSS, Javascript, PHP and at last C#. Leveraging a background in psychology and humanities, I've applied my knowledge and understanding of human behavior to create user-friendly interfaces and software solutions. I eagerly anticipate a future within tech where I continuously evolve, innovate and learn!
+Currently embarking on my .NET system development journey. My programming path started with C++, HTML, CSS, Javascript, PHP and at last C#. Leveraging a background in psychology and humanities, I've applied my knowledge and understanding of human behavior to create user-friendly interfaces and software solutions. I eagerly anticipate a future within tech where I continuously evolve, innovate and learn!
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
