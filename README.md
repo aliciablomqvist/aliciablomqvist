@@ -8,7 +8,7 @@ Currently embarking on my .NET system development journey. My programming path s
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
-* 🧠  I'm currently learning HTML5, CSS and Javascript.
+* 🧠  I'm currently learning Razor Pages.
 * 🗣 Fluent in Swedish and highly experienced in English, with basic knowledge of German 
 * 🎨 In my free time, I enjoy outdoorsy activities like running, climbing, bouldering and hiking, but I also cherish the calm and quiet pleasures of reading and knitting!
 
