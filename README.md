@@ -4,12 +4,12 @@ Alicia Blomqvist
 Software developer student 🌱‎
 -------------------------
 
-Currently embarking on my .NET system development journey.
+Currently studying system development with a focus on .NET technologies.
 
 * 🌍  Based in Sweden
 * ✉️  Contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
-* 🗣  Fluent in Swedish, proficient in English, and have basic knowledge of German.
-* 🎨 When I'm not coding, I stay active with running, climbing, and hiking. I also appreciate quieter moments spent reading or knitting!
+* 🗣   Fluent in Swedish, proficient in English, and have basic knowledge of German.
+* 🎨  When I'm not coding, I stay active with running, climbing, and hiking. I also appreciate quieter moments spent reading or knitting!
 
 ### Socials
 
