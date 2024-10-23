@@ -1,15 +1,15 @@
 Alicia Blomqvist
 ========================================================================================================================================
 
-.NET developer student 🌱‎
+Software developer student 🌱‎
 -------------------------
 
 Currently embarking on my .NET system development journey.
 
-* 🌍  I'm based in Sweden
-* ✉️  You can contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
-* 🗣 Fluent in Swedish and highly experienced in English, with basic knowledge of German 
-* 🎨 In my free time, I enjoy outdoorsy activities like running, climbing and hiking, but I also cherish the calm and quiet pleasures of reading and knitting!
+* 🌍  Based in Sweden
+* ✉️  Contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
+* 🗣  Fluent in Swedish, proficient in English, and have basic knowledge of German.
+* 🎨 When I'm not coding, I stay active with running, climbing, and hiking. I also appreciate quieter moments spent reading or knitting!
 
 ### Socials
 
