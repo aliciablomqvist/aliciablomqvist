@@ -1,10 +1,10 @@
 Alicia Blomqvist
 ========================================================================================================================================
 
-Software developer student 🌱‎
+System Developer Graduate 🌱‎
 -------------------------
 
-Currently studying system development with a focus on .NET technologies.
+Recently graduated in system development with a focus on .NET technologies. Currently working as a freelance developer, building web applications with both frontend and backend technologies.
 
 * 🌍  Based in Sweden
 * ✉️  Contact me at [alicia.blomqvist55@gmail.com](mailto:alicia.blomqvist55@gmail.com)
